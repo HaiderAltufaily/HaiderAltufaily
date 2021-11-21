@@ -1,6 +1,5 @@
-### Hi there 👋
+###                                                                       Hi there I'm Haider 👋
 
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning NodeJs
-- 💬 Ask me about anything
-- 📫 How to reach me: haiderlek@gmail.com
+- 🔭 I’m currently learning NodeJs Express and MongoDB
+- 🌱 My Goal is to become a MERN Stack developer by the end of this year
+- 📫 Reach out to me: haiderlek@gmail.com
